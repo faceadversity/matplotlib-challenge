@@ -18,3 +18,5 @@ I will be tasked to do the following:
   Then calculate the quartiles and IQR and determine if there are any potential outliers across all four treatment regimens. Use Matplotlib to generate a 
   box plot that shows the distribution of the final tumor volume for all the mice in each treatment group.
   Highlight any potential outliers in the plot by changing their color and style.
+* Create a Line Plot and a Scatter Plot: Select a single mouse that was treated with Capomulin and generate a line plot of tumor volume versus time point 
+  for that mouse. Also generate a scatter plot of mouse weight versus average observed tumor volume for the entire Capomulin treatment regimen.
