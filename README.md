@@ -5,6 +5,6 @@ After seeking and getting employment at Pymaceuticals, Inc., a new pharmaceutica
 
 The executive team has tasked me with generating all of the tables and figures needed for the technical report of the clinical study. They have also asked for my top-level summary of the study results.
 # Datasets for Analysis Purposes
-Mouse Metadata: (https://github.com/faceadversity/matplotlib-challenge/files/12266516/Mouse_metadata.csv)
-Study Results: (https://github.com/faceadversity/matplotlib-challenge/files/12266518/Study_results.csv)
+Mouse Metadata: https://github.com/faceadversity/matplotlib-challenge/files/12266516/Mouse_metadata.csv
+Study Results: https://github.com/faceadversity/matplotlib-challenge/files/12266518/Study_results.csv
 
