@@ -11,7 +11,7 @@ Study Results: https://github.com/faceadversity/matplotlib-challenge/files/12266
 I will be tasked to do the following:
   * Run the provided package dependency and data imports, and then merge the mouse_metadata and study_results DataFrames into a single DataFrame. Display      the number of unique mice IDs in the data, and then check for any mouse ID with duplicate time points. Display the data associated with that mouse ID,     and then create a new DataFrame where this data is removed. Use this cleaned DataFrame for the remaining steps. Display the updated number of unique       mice IDs.
   * Create a DataFrame of summary statistics that include two of the following: 1) A row for each drug regimen. These regimen names should be contained in     the index column. 2) A column for each of the following statistics: mean, median, variance, standard deviation, and SEM of the tumor volume.
-  * Generate two bar charts. Both charts should be identical and show the total total number of rows (Mouse ID/Timepoints) for each drug regimen           
-    throughout the study. The first bar chart will be created with the Pandas DataFrame.plot() method while the second bar chart will be created with the 
+  * Generate two bar charts: Both charts should be identical and show the total total number of rows (Mouse ID/Timepoints) for each drug regimen through 
+    out the study. The first bar chart will be created with the Pandas DataFrame.plot() method while the second bar chart will be created with the 
     Matplotlib's pyplot method. Two pie charts will also be included for analysis. One using the Pandas method described already including Matplotlib's        pyplot method also.
   * 
