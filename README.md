@@ -20,3 +20,5 @@ I will be tasked to do the following:
   Highlight any potential outliers in the plot by changing their color and style.
 * Create a Line Plot and a Scatter Plot: Select a single mouse that was treated with Capomulin and generate a line plot of tumor volume versus time point 
   for that mouse. Also generate a scatter plot of mouse weight versus average observed tumor volume for the entire Capomulin treatment regimen.
+* Calculate Correlation and Regression: Calculate the correlation coefficient and linear regression model between mouse weight and average observed tumor 
+  volume for the entire Capomulin treatment regimen. Include a plotting the linear regression model on top of the previous scatter plot.
