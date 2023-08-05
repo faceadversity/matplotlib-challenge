@@ -15,6 +15,6 @@ I will be tasked to do the following:
     out the study. The first bar chart will be created with the Pandas DataFrame.plot() method while the second bar chart will be created with the 
     Matplotlib's pyplot method. Two pie charts will also be included for analysis. One using the Pandas method described already including Matplotlib's        pyplot method also.
   * Calculate the final tumor volume of each mouse across four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin. 
-    Then calculate the quartiles and IQR and determine if there are any potential outliers across all four treatment regimens. After this is  
-    accomplished, use Matplotlib to generate a box plot that shows the distribution of the final tumor volume for all the mice in each treatment group. 
-    Highlight any potential outliers in the plot by changing their color and style.
+    Then calculate the quartiles and IQR and determine if there are any potential outliers across all four treatment regimens. Matplotlib will be used to  
+    generate a box plot that shows the distribution of the final tumor volume for all the mice in each treatment group. Highlight any potential outliers 
+    in the plot by changing their color and style.
