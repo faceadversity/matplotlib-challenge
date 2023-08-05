@@ -24,3 +24,10 @@ I will be tasked to do the following:
   volume for the entire Capomulin treatment regimen. Include a plotting the linear regression model on top of the previous scatter plot.
 # Image(s) for Analysis Purposes
 (Already attached in the repo)
+# Conclusion
+    "- There is a strong positive correlation between average tumor volume and weight for all 249 mice analysed at 0.84."
+    "- The male and female mice gender distribution is almost even with the male mice pulling slightly ahead at 51% (2% higher than females)."
+    "- Ramicane seems to be the most effective at reducing tumor growth followed closely by Capomulin."
+    "- Capomulin was the main focus of analysis due to showcasing just how effective this drug regimen was at reducing tumor volume 
+       against weight metrics for all 249 mice analysed."
+    "- Capomulin and Ramicane were also subject to the largest recorded number of mice in testing out how effective the drug regimens were."
